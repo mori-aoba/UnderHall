@@ -65,13 +65,13 @@ https://youtu.be/vsww1RS2NX8
 ## 실행 방법
 
 ### 1. 빌드된 버전으로 실행 (가장 간단)
-1. [Releases](https://github.com/Hukaziroh/UnderHall/releases) 페이지에서 최신 빌드 파일을 다운로드합니다.
+1. [Releases](https://github.com/mori-aoba/UnderHall/releases) 페이지에서 최신 빌드 파일을 다운로드합니다.
 2. 압축을 해제하고 실행 파일(`.exe`)을 실행합니다.
 
 ### 2. Unity 에디터에서 실행 (개발용)
 1. 저장소를 클론합니다.
    ```bash
-   git clone https://github.com/Hukaziroh/UnderHall.git
+   git clone https://github.com/mori-aoba/UnderHall.git
    ```
 2. **Unity 6.4 (6000.4.5f1)** 버전으로 프로젝트를 엽니다.
    > 팀 전원 동일 버전을 사용합니다. 버전이 다르면 프로젝트가 깨질 수 있습니다.
